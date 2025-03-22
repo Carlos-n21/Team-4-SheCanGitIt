@@ -1,0 +1,110 @@
+[
+  {
+    "model": "home.womenintech",
+    "pk": 1,
+    "fields": {
+      "name": "Ada Lovelace",
+      "bio": "The first computer programmer. She wrote the first algorithm intended for a machine — Charles Babbage's Analytical Engine.",
+      "image": "women/ada-lovelace.webp"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 2,
+    "fields": {
+      "name": "Grace Hopper",
+      "bio": "A U.S. Navy rear admiral and computer scientist who developed the first compiler and helped create COBOL.",
+      "image": "women/grace-hopper.jpg"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 3,
+    "fields": {
+      "name": "Margaret Hamilton",
+      "bio": "Led the team that developed software for NASA's Apollo 11 mission. Coined the term 'software engineering'.",
+      "image": "women/margaret_hamilton.jpg"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 4,
+    "fields": {
+      "name": "Katherine Johnson",
+      "bio": "A NASA mathematician whose calculations of orbital mechanics were critical to the success of U.S. spaceflights.",
+      "image": "women/katherine.webp"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 5,
+    "fields": {
+      "name": "Radia Perlman",
+      "bio": "Known as the 'Mother of the Internet' for her invention of the Spanning Tree Protocol (STP), essential for network bridges.",
+      "image": "women/radia-perlman.jpg"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 6,
+    "fields": {
+      "name": "Hedy Lamarr",
+      "bio": "Hollywood actress and inventor who co-created a frequency-hopping system — the foundation for Wi-Fi and Bluetooth.",
+      "image": "women/hedy-lamarr.jpg"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 7,
+    "fields": {
+      "name": "Annie Easley",
+      "bio": "A NASA computer scientist and rocket scientist who developed software for the Centaur rocket stage.",
+      "image": "women/annie-easley.jpg"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 8,
+    "fields": {
+      "name": "Carol Shaw",
+      "bio": "One of the first female video game designers and programmers. Known for the game River Raid (1982).",
+      "image": "women/carol-shaw.jpg"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 9,
+    "fields": {
+      "name": "Shafi Goldwasser",
+      "bio": "A cryptographer who won the Turing Award for her work in complexity theory and cryptographic protocols.",
+      "image": "women/shafi-goldwasser.jpg"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 10,
+    "fields": {
+      "name": "Tracy Chou",
+      "bio": "Software engineer and diversity advocate. Launched the #WhereAreTheTechWomen movement and founded Block Party.",
+      "image": "women/tracy-chou.jpg"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 11,
+    "fields": {
+      "name": "Kimberly Bryant",
+      "bio": "Founder of Black Girls Code, a nonprofit that teaches coding to girls from underrepresented communities.",
+      "image": "women/kimberly-bryant.jpg"
+    }
+  },
+  {
+    "model": "home.womenintech",
+    "pk": 12,
+    "fields": {
+      "name": "Fei-Fei Li",
+      "bio": "A leading AI researcher and professor. Known for building ImageNet and pushing ethical AI discussions.",
+      "image": "women/fei-fei-li.jpg"
+    }
+  }
+]
